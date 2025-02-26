@@ -229,7 +229,7 @@ To build Arm32 bit for (ARMHF) platform
 ```shell
 # Execute make configure once to configure ASIC and ARCH
 make configure PLATFORM=[ASIC_VENDOR] PLATFORM_ARCH=armhf
-make target/sonic-[ASIC_VENDER]-armhf.bin
+make target/sonic-[ASIC_VENDOR]-armhf.bin
 ```
 
 _example:_
